@@ -15,7 +15,7 @@
 
 perfect_10_recipe = {
   :almond_flour => "2 cups",
-  :gluten_freewhole oats => "1 cup",
+  :gluten_freewhole_oats => "1 cup",
   :kosher_salt=> "1/2 tea spoon",
   :baking_powder => "1/2 tea spoon",
   :baking_soda => "1/4 teaspoon",

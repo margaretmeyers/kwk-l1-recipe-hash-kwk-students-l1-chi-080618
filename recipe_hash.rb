@@ -48,6 +48,7 @@ def ingredients_and_amounts(perfect_10_recipe)
   puts "#{x} = #{y}"
  end
 end
+
 ingredients_and_amounts(perfect_10_recipe)
 
 

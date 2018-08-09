@@ -15,14 +15,14 @@
 
 perfect_10_recipe = {
   :almond_flour => "2 cups",
-  :gluten freewhole oats => "1 cup",
-  :kosher salt=> "1/2 tea spoon",
-  :baking powder => "1/2 tea spoon",
-  :baking soda => "1/4 teaspoon",
+  :gluten_freewhole oats => "1 cup",
+  :kosher_salt=> "1/2 tea spoon",
+  :baking_powder => "1/2 tea spoon",
+  :baking_soda => "1/4 teaspoon",
   :Xanthan_Gum => "1/2 tea spoon",
-  :slivered almonds, lightly toasted => "1/4 cup",
-  :mini dark chocolate chips => "3/4 cup",
-  :olive oil => "1/2 cup",
+  :slivered_almonds, lightly toasted => "1/4 cup",
+  :mini_dark_chocolate_chips => "3/4 cup",
+  :olive_oil => "1/2 cup",
   :agave => "1/4 cup"
 }
 

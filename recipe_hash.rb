@@ -70,7 +70,7 @@ def amounts(perfect_10_recipe)
  end
 end
 
-amounts(peefect_10_recipe)
+amounts(perfect_10_recipe)
 
 
 
